@@ -53,11 +53,14 @@ O sistema avisa quando uma saída é registrada como almoço e apresenta um emoj
 
 Nas configurações é possível agendar um aviso após a saída para almoço, por padrão este aviso está configurado para 1 hora. Clique no botão "Notificar o retorno do almoço após X" para configurar o tempo desta notificação. Note que o seletor apresenta o formato am/pm, e para selecionar 59 minutos por exemplo o usuário deve selecionar 12:59AM no relógio.
 
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_07.png" height="533" width="300">
+</div>
+
 # Regimes
 O sistema apresenta uma configuração de regimes, 4, 6 ou 8 horas. Essa opção não afeta o comportamento do ponto exceto pelo almoço, como descrito acima e o cálculo da hora mínima de saída, que leva em conta os 15 minutos de tolerância diários, ou seja, não importando o seu regime você pode bater o ponto com qualquer uma das configurações.
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_07.png" height="533" width="300">
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_08.png" height="533" width="300">
 </div>
 
