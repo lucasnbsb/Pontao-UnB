@@ -16,7 +16,7 @@ Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma mens�
 </div>
 
 ## Bater o Ponto:
-Após o registro dos dados o usuário está pronto para realizar o registro de ponto, clique bater ponto e confirme a operação, o aplicativo realiza todo o processo sozinho:
+Após o registro dos dados o usuário está pronto para realizar o registro de ponto, clique bater ponto e confirme a operação, o aplicativo realiza todo o processo sozinho, se você estiver fora ele entra, se estiver dentro ele sai:
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/entrada.gif" height="533" width="300">
