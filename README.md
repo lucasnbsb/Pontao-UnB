@@ -83,3 +83,6 @@ O intuito do aplicativo é ser apenas um cliente para registro de ponto, operaç
 
 ### O aplicativo coleta algum tipo de dado do meu celular?
 Não. Em nenhuma hipótese.
+
+### Tenho uma sugestão, para onde eu mando?
+lucascpd@unb.br
