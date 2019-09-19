@@ -13,6 +13,7 @@ Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma mens�
 <div style="text-align:center">
  <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_01.png" height="533" width="300">
  <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_02.png" height="533" width="300">
+ <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_09.png" height="533" width="300">
 </div>
 
 ## Bater o Ponto:
@@ -52,7 +53,6 @@ O sistema apresenta uma configuração de regimes, 4, 6 ou 8 horas. Essa opção
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_07.png" height="533" width="300">
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_08.png" height="533" width="300">
-<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_09.png" height="533" width="300">
 </div>
 
 
