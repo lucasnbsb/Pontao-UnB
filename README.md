@@ -38,14 +38,14 @@ Alguns funcionários precisam selecionar a unidade na qual o ponto será registr
 
 # Almoço
 O ponto de saída para o almoço segue as seguintes regras: 
-1. A saída para o almoço só pode ser registrada das 11 às 15
+1. A saída para o almoço só pode ser registrada das 11 às 15.
 2. A volta do almoço só pode ser registrada 1 hora após a saída.
 
 O aplicativo trata a saída do almoço da seguinte forma:
 
 1. A saída para almoço só pode ser registrada se o regime selecionado for 8 horas.
-2. A saída para almoço só é registrada se o checkbox "Saída para o almoço se possível?" estiver marcado
-3. A hora do celular deve estar entre 11 e 15
+2. A saída para almoço só é registrada se o checkbox "Saída para o almoço se possível?" estiver marcado.
+3. A hora do celular deve estar entre 11 e 15.
 
 O sistema avisa quando uma saída é registrada como almoço e randomiza um emoji de comida pra servir como sugestão :)
 
@@ -65,10 +65,10 @@ O sistema apresenta uma configuração de regimes, 4, 6 ou 8 horas. Essa opção
 O Pontão é mais bem mais prático, mas tambem é mais eficiete, o aplicativo realiza apenas o estritamente necessário para realizar o registro do ponto, transferindo cerca de 500kb apenas por registro no pior caso, enquanto o SIGRH precisa de cerca de 6000kb, isso significa que o ponto funciona mais rápido e em conexões menos confiáveis, o que agiliza o processo para o usuário e libera recursos no servidor do SIGRH.
 
 ### Tem para IOs?
-Tem e não tem, o aplicativo foi feito em Flutter, um framework da google que gera aplicativos nativos para as duas plataformas, mas infelizmente não é possível distribuir o aplicativo sem ser pela loja oficial da Apple ou pelo programa de beta test, e para isso é preciso uma conta de desenvolvedor que custa 99 USD por mês, e a aprovação na revisão manual
+Tem e não tem, o aplicativo foi feito em Flutter, um framework da google que gera aplicativos nativos para as duas plataformas, mas infelizmente não é possível distribuir o aplicativo sem ser pela loja oficial da Apple ou pelo programa de beta test, e para isso é preciso uma conta de desenvolvedor que custa 99 USD por mês, e a aprovação na revisão manual.
 
 ### Posso bater o ponto de casa ou agendar o ponto ou cometer outros tipos de crime?
-Não, o sistema têm as mesmas restrições do SIGRH. O ponto só pode ser registrado na rede da UnB
+Não, o sistema têm as mesmas restrições do SIGRH. O ponto só pode ser registrado na rede da UnB.
 
 ### E se ele me disser que bateu o ponto mas não bateu?
 O aplicativo retira os dados diretamente da página do SIGRH, nenhum dado que aparece na tela é criado pelo aplicativo, e portanto tudo o que é mostrado está registrado.
