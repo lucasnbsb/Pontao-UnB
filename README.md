@@ -11,11 +11,15 @@ O funcionamento é simples, o usuário registra suas credenciais do sigrh e o si
 Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma menságem avisando sobre a necessidade de registrar as credenciais de acesso. Na tela de configurações o usuário deve digitar seu login e senha do Sigrh. Não se preocupe, seus dados serão guardados apenas no seu celular, e transmitidos ao Sigrh por uma conexão segura. Para limpar os dados, basta limpar os dados do aplicativo.
 
 <div style="text-align:center">
- <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_01.png" height="300" width="200">
+ <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_01.png" height="533" width="300">
+ <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_02.png" height="533" width="300">
 </div>
 
 ## Bater o Ponto:
 Após o registro dos dados o usuário está pronto para realizar o registro de ponto, clique bater ponto e confirme a operação, o aplicativo realiza todo o processo sozinho:
+
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/entrada.gif" height="533" width="300">
+
 
 ## Seleção de Unidade.
 Alguns funcionários precisam selecionar a unidade na qual o ponto será registrado antes de bater o ponto, para tanto é necessário o código da únidade. Logue uma vez sem preencher o código e o aplicativo listará as unidades e seus códigos, aí basta copiar o código para as configurações e daqui pra frente seu ponto será registrado sempre na mesma unidade.
