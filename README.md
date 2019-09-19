@@ -11,7 +11,7 @@ O funcionamento é simples, o usuário registra suas credenciais do sigrh e o si
 Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma menságem avisando sobre a necessidade de registrar as credenciais de acesso. Na tela de configurações o usuário deve digitar seu login e senha do Sigrh. Não se preocupe, seus dados serão guardados apenas no seu celular, e transmitidos ao Sigrh por uma conexão segura. Para limpar os dados, basta limpar os dados do aplicativo.
 
 <div style="text-align:center">
- <img src="/imagens/flutter_01.png" height="300" width="200">
+ <img src="https://github.com/lucasnbsb/Pontao-UnB/blob/master/imagens/flutter_01.png" height="300" width="200">
 </div>
 
 ## Bater o Ponto:
