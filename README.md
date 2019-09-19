@@ -7,6 +7,8 @@ O funcionamento é simples, o usuário registra suas credenciais do SIGRH e o si
 # Passo a passo:
 
 ## Instalar o aplicativo:
+Baixe o app clicando em um dos botões de download desse site ( os dois apontam para o mesmo arquivo ).
+
 O app é distribuído no formato .apk, cada modelo de celular e android têm o próprio método para realizar a instalação de APKs
 verifique o menu em configuraçes -> Segurança -> Instalar aplicativos de origem desconhecida , se essa opção não existir, algum aplicativo terá a permissão para instalar APKs, via de regra um navegador ou um gerenciador de arquivos, use esse aplicativo para abrir o APK e dê a permissão de instalação.
 
