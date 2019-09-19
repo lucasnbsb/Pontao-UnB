@@ -19,10 +19,16 @@ Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma mens�
 Após o registro dos dados o usuário está pronto para realizar o registro de ponto, clique bater ponto e confirme a operação, o aplicativo realiza todo o processo sozinho:
 
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/entrada.gif" height="533" width="300">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/saida.gif" height="533" width="300">
 
 
 ## Seleção de Unidade.
 Alguns funcionários precisam selecionar a unidade na qual o ponto será registrado antes de bater o ponto, para tanto é necessário o código da únidade. Logue uma vez sem preencher o código e o aplicativo listará as unidades e seus códigos, aí basta copiar o código para as configurações e daqui pra frente seu ponto será registrado sempre na mesma unidade.
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_14.png" height="533" width="300">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_15.png" height="533" width="300">
+</div>
 
 # Almoço
 O ponto de saída para o almoço segue as seguintes regras: 
