@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Introdução
 
-You can use the [editor on GitHub](https://github.com/lucasnbsb/Pontao-UnB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O Pontão UnB é um cliente para o registro de ponto eletrônico na Universidade de Brasília, isso significa que o aplicativo utiliza exatamente a mesma infraestrutura e metodologia do registro de ponto existente, sendo porntanto condicionado às mesmas regras.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O funcionamento é simples, o usuário registra suas credenciais do sigrh e o sistema realiza Toda a navegação e o registro do ponto com um clique. Registrando a cada passo as respostas do sistema de ponto.
 
-### Markdown
+# Passo a passo:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucasnbsb/Pontao-UnB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 1. Cadastrar as Credenciais:
+ 
+ Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma menságem avisando sobre a necessidade de registrar as credenciais de acesso:
+ 
+ 
