@@ -64,6 +64,15 @@ O sistema apresenta uma configuração de regimes, 4, 6 ou 8 horas. Essa opção
 <img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_08.png" height="533" width="300">
 </div>
 
+# Fim do Expediente
+A partir da Versão 7 o pontão avisa o fim do expediente ( incluindo os 15 minutos de tolerância ), na tela de configurações é possível escolher
+entre receber o aviso no minuto em que o expediente acaba ou 5 minutos antes.
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_16.png" height="533" width="300">
+<img src="https://raw.githubusercontent.com/lucasnbsb/Pontao-UnB/master/imagens/flutter_17.png" height="533" width="300">
+</div>
+
 
 # Perguntas mais frequêntes
 ### Por quê utilizar o Pontão ao invés do SIGRH?
