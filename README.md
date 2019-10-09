@@ -75,26 +75,35 @@ entre receber o aviso no minuto em que o expediente acaba ou 5 minutos antes.
 
 
 # Perguntas Frequentes
-### 1. Por quê utilizar o Pontão ao invés do SIGRH?
+### 1. Isso é legal?
+Sim, o aplicativo registra o ponto pelo SIGRH, é 100% equivalente.
+
+### 2. Por quê utilizar o Pontão ao invés do SIGRH?
 O Pontão é mais bem mais prático e também é mais eficiete, o aplicativo realiza apenas o estritamente necessário para realizar o registro do ponto, transferindo cerca de 500kb apenas por registro no pior caso, enquanto o SIGRH precisa de cerca de 6000kb, isso significa que o ponto funciona mais rápido e em conexões menos confiáveis, o que agiliza o processo para o usuário e libera recursos no servidor do SIGRH.
 
-### 2. Tem para IOs?
+### 3. Tem para IOs?
 Tem e não tem, o aplicativo foi feito em Flutter, um framework da google para desenvolver aplicativos nativos para as duas plataformas, mas infelizmente não é possível distribuir o aplicativo fora da loja oficial da Apple ou pelo programa Test Flight também da Apple, e para isso é preciso uma conta de desenvolvedor que custa 99 USD por ano, e a aprovação na revisão manual.
 
-### 3. Posso bater o ponto de casa ou agendar o ponto ou cometer outros tipos de crime?
+### 4. Posso bater o ponto de casa ou agendar o ponto ou cometer outros tipos de crime?
 Não, o sistema têm as mesmas restrições do SIGRH. O ponto só pode ser registrado na rede da UnB.
 
-### 4. E se ele me disser que bateu o ponto mas não bateu?
+### 5. Meu regime não é contemplado, posso utilizar o aplicativo?
+O seletor de regime é só para determinar a saída para o almoço e calcular o horário de saída, qualquer um pode usar
+independente do regime selecionado, leia a seção sobre almoço e regime.
+
+### 6. E se ele me disser que bateu o ponto mas não bateu?
 O aplicativo retira os dados diretamente da página do SIGRH, nenhum dado que aparece na tela é criado pelo aplicativo, e portanto tudo o que é mostrado está registrado.
 
-### 5. O aplicativo faz alguma alteração no SIGRH?
+### 7. O aplicativo faz alguma alteração no SIGRH?
 Não, apenas o ponto é registrado e todas as operações são descritas em texto.
 
-### 6. Por que o aplicativo não tem outras funcionalidades de frequência do SIGRH?
+### 8. Por que o aplicativo não tem outras funcionalidades de frequência do SIGRH?
 O intuito do aplicativo é ser apenas um cliente para registro de ponto, operações como justificativa de ausência via atestado devem ser feitas exclusivamente pelo SIGRH.
 
-### 7. O aplicativo coleta algum tipo de dado do meu celular?
+### 9. O aplicativo coleta algum tipo de dado do meu celular?
 Não. Em nenhuma hipótese.
 
-### 8. Tenho uma sugestão, para onde eu mando?
-lucascpd@unb.br
+### 10. Quem fez o app? Tenho uma sugestão, para onde eu mando?
+lucascpd@unb.br, Analista de Sistemas do CPD
+
+
