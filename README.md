@@ -104,6 +104,6 @@ O intuito do aplicativo é ser apenas um cliente para registro de ponto, operaç
 Não. Em nenhuma hipótese.
 
 ### 10. Quem fez o app? Tenho uma sugestão, para onde eu mando?
-lucascpd@unb.br, Analista de Sistemas do CPD.
+lucascpd@unb.br, Analista de Sistemas do CPD
 
 
