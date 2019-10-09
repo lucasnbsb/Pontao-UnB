@@ -12,6 +12,8 @@ Baixe o app clicando em um dos botões de download desse site ( os dois apontam 
 O app é distribuído no formato .apk, cada modelo de celular e android têm o próprio método para realizar a instalação de APKs
 verifique o menu em **Configurações -> Segurança -> Instalar aplicativos de origem desconhecida**, se essa opção não existir, algum aplicativo terá a permissão para instalar APKs, geralmente um navegador ou um gerenciador de arquivos, use esse aplicativo para abrir o APK e dê a permissão de instalação.
 
+Dica: Sincronize o relógio do seu celular com o horário do SIGRH para melhores resultados.
+
 ## 2. Cadastrar as credenciais
 
 Ao abrir o aplicativo pela primeira vez, o usuário encontrará apenas uma menságem avisando sobre a necessidade de registrar as credenciais de acesso. Na tela de configurações o usuário deve digitar seu login e senha do SIGRH. Seus dados serão guardados apenas no seu celular e transmitidos ao SIGRH por uma conexão segura. Para limpar os dados, basta limpar os dados do aplicativo.
