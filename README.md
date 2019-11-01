@@ -105,7 +105,10 @@ O intuito do aplicativo é ser apenas um cliente para registro de ponto, operaç
 ### 9. O aplicativo coleta algum tipo de dado do meu celular?
 Não. Em nenhuma hipótese.
 
-### 10. Quem fez o app? Tenho uma sugestão, para onde eu mando?
+### 10. Tem como aumentar o volume da notificação?
+Sim, pelo volume de alarme do seu celular, o aplicativo depende das configurações do seu celular para enviar as notificações.
+
+### 11. Quem fez o app? Tenho uma sugestão, para onde eu mando?
 lucascpd@unb.br, Analista de Sistemas do CPD
 
 
