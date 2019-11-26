@@ -81,7 +81,7 @@ entre receber o aviso no minuto em que o expediente acaba ou 5 minutos antes.
 Sim, o aplicativo registra o ponto pelo SIGRH, é 100% equivalente.
 
 ### 2. Por quê utilizar o Pontão ao invés do SIGRH?
-O Pontão é mais bem mais prático e também é mais eficiete, o aplicativo realiza apenas o estritamente necessário para realizar o registro do ponto, transferindo cerca de 500kb apenas por registro no pior caso, enquanto o SIGRH precisa de cerca de 6000kb, isso significa que o ponto funciona mais rápido e em conexões menos confiáveis, o que agiliza o processo para o usuário e libera recursos no servidor do SIGRH.
+O Pontão é mais bem mais prático e também é mais eficiente, o aplicativo realiza apenas o estritamente necessário para realizar o registro do ponto, transferindo cerca de 500kb apenas por registro no pior caso, enquanto o SIGRH precisa de cerca de 6000kb, isso significa que o ponto funciona mais rápido e em conexões menos confiáveis, o que agiliza o processo para o usuário e libera recursos no servidor do SIGRH.
 
 ### 3. Tem para IOs?
 Tem e não tem, o aplicativo foi feito em Flutter, um framework da google para desenvolver aplicativos nativos para as duas plataformas, mas infelizmente não é possível distribuir o aplicativo fora da loja oficial da Apple ou pelo programa Test Flight também da Apple, e para isso é preciso uma conta de desenvolvedor que custa 99 USD por ano, e a aprovação na revisão manual.
