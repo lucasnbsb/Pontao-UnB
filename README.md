@@ -1,8 +1,9 @@
-# Aviso
+# Pontão UnB
 
+## Avisos:
 **O pontão NÃO é um aplicativo da UnB, ele é um projeto pessoal do desenvolvedor e se conforma com todas as regras da Universidade**
 
-**O Pontão será gratuito sempre, mas se você quiser apoiar o desenvolvedor o PIX é 03624223119 **
+**O Pontão será gratuito sempre, mas se você quiser apoiar o desenvolvedor o PIX é 03624223119**
 
 # Introdução
 
