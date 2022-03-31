@@ -1,3 +1,9 @@
+# Aviso
+
+**O pontão NÃO é um aplicativo da UnB, ele é um projeto pessoal do desenvolvedor e se conforma com todas as regras da Universidade**
+
+**O Pontão será gratuito sempre, mas se você quiser apoiar o desenvolvedor o PIX é 03624223119**
+
 # Introdução
 
 O Pontão UnB é um cliente para o registro de ponto eletrônico na Universidade de Brasília, utilizando exatamente a mesma infraestrutura e metodologia do registro de ponto existente, sendo portanto condicionado às mesmas regras.
@@ -110,5 +116,3 @@ Sim, pelo volume de alarme do seu celular, o aplicativo depende das configuraç�
 
 ### 11. Quem fez o app? Tenho uma sugestão, para onde eu mando?
 lucascpd@unb.br, Analista de Sistemas do CPD
-
-
