@@ -1,5 +1,8 @@
 # Pontão UnB
 
+# Aviso - SSO - Single Sign On
+A nova versão do Pontão tem uma nova opção: Login Antigo/Login via SSO. Os diferentes modos de login são alternados pelo CPD em momentos de uso intenso do sistema como o período de matrícula. Durante o período de matrícula, utilize o modo Login Antigo. E caso receba a menságem "Seção Expirada" entre uma vez no sigrh pelo navegador para remover o popup e permitir o uso do Pontão, infelizmente esse problema não tem solução por hora.
+
 # Introdução
 
 O Pontão UnB é um cliente para o registro de ponto eletrônico na Universidade de Brasília, utilizando exatamente a mesma infraestrutura e metodologia do registro de ponto existente, sendo portanto condicionado às mesmas regras.
